@@ -1,6 +1,7 @@
 # 📌 Установка и запуск проекта
 
-Этот проект использует Laravel и требует настройки базы данных.
+This is a Laravel project that fetches data from the API and adds it to the database. 
+- Note: When you run the code, it fetches data from 3 days to the present.
 
 ## 🛠 Требования
 - PHP 8.1+
